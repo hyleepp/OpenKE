@@ -1,4 +1,6 @@
-# OpenKE-PyTorch
+# OpenKE-PyTorch (Re)
+
+自己尝试修改的版本
 
 An Open-source Framework for Knowledge Embedding implemented with PyTorch.
 
